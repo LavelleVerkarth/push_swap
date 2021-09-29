@@ -5,7 +5,7 @@ See more [subject](https://github.com/LavelleVerkarth/push_swap/blob/main/en.sub
 
 ## Build
 
-- To compile and generate a static C library named libft.a mandatory part and bonus checker
+- To compile and generate an executable file named push_swap mandatory part and bonus checker
 > - make
 - To remove obj:
 > - make clean
